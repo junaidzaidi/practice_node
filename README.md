@@ -56,7 +56,7 @@
 # Common Errors:
     - Make sure to export the things you wanna use.
 
-# ROADMAP FOR MY LOVE:
+# Roadmap:
     1) Get handson with folder structure and how things work in node by setting up 2,3 projects and basic CRUD with dummy data. (1-2 hours)
     2) Play with routes, how middleware works, see common examples of middleware etc.
     3) Add SQL or NoSQL database and use ORM to manipulate data.
